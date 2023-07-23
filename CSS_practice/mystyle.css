@@ -1,0 +1,16 @@
+h2 {
+    color: teal;
+    background-color: blanchedalmond;
+}
+button{
+    color:rgb(89,151,0);
+    background-color: white;
+}
+p{
+    color: olive;
+    background:#42c2f5;
+}
+body{
+    background-color: #a67;
+}
+/* ch6 일반 텍스트 속성 */
